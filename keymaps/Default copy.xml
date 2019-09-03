@@ -39,9 +39,6 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
-  <action id="ShowProjectStructureSettings">
-    <keyboard-shortcut first-keystroke="shift alt s" />
-  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
@@ -53,6 +50,5 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
-  <action id="context.save" />
   <action id="openAssertEqualsDiff" />
 </keymap>
