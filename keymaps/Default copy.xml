@@ -3,11 +3,15 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.NextPage" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -20,9 +24,13 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="RecentFiles" />
   <action id="ReformatCode">
@@ -39,6 +47,9 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
@@ -50,5 +61,6 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="context.save" />
   <action id="openAssertEqualsDiff" />
 </keymap>
