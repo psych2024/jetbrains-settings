@@ -24,6 +24,10 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoLine" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
