@@ -1,12 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="5" />
-    <option name="accentColor" value="009688" />
-    <option name="userId" value="17069342:16eceb9dacb:-8000" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="accentColor" value="42a5f5" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="userId" value="1be3d335:16ecec52088:-8000" />
     <option name="version" value="4.10.0" />
   </component>
 </application>
