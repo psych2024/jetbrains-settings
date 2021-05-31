@@ -15,15 +15,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="ianlim224@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/RishiRajAnand/drools-test.git" />
+          <option name="url" value="https://github.com/Ean244/mineplexity-core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/MovingBlocks/Terasology.git" />
+          <option name="url" value="https://github.com/Ean244/authemcity-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ean244/JrCreator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ean244/authemxity-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
