@@ -16,6 +16,10 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />

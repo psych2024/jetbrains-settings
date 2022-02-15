@@ -1,5 +1,6 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
