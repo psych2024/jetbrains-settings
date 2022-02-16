@@ -3,6 +3,7 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
   <action id="EditorSelectWord" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="alt f" />
@@ -10,6 +11,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="SmartSelect" />
   <action id="UsageFiltering.WriteAccess" />
