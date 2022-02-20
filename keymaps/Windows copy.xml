@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -16,6 +20,7 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="GotoTest" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -30,6 +35,7 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAs" />
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="SmartSelect" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="XDebugger.CopyWatch" />
